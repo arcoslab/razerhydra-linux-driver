@@ -1,9 +1,5 @@
 #!/usr/bin/python
 
-#This project is managed by Dannier Castro L <danniercl@gmail.com>, for the ARCOSlab's investigation
-#projects, University of Costa Rica. Lab Coordinator: Federico Ruiz
-#Under GNU General Public License v3.0.
-
 import yarp
 
 yarp.Network.init()

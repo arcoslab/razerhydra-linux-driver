@@ -1,9 +1,17 @@
-/** Part of this code was taken from the SDK distribution of Sixense to control the Joystick RAZER HYDRA,
-from LINUX Operating System (Ubuntu/Debian) and implement a python application using YARP communication,
-what allows to configure the handle-control to use the magnetic-position function.
+/** 
 
 This project is managed by Dannier Castro L <danniercl@gmail.com>, for the ARCOSlab's investigation
 projects, University of Costa Rica. Lab Coordinator: Federico Ruiz
+
+Part of this code was taken from the SDK distribution of Sixense to control the Joystick RAZER HYDRA,
+and distribuited as a Embedded Code under "End-User License Agreement For Use of Sixense Software" to a
+End-User Product to help Developers of Python games can easily implement Razer Hydra controller.
+
+This is from LINUX Operating System (Ubuntu/Debian) and implement a python application using YARP communication,
+what allows to configure the handle-control to use the magnetic-position function.
+
+Portions copyright © 2015 Sixense Entertainment, Inc. All rights reserved.
+
 **/
 
 #include <yarp/os/Network.h>
