@@ -2,8 +2,11 @@ Razer Hydra (Sixence) Driver to Linux (C++) with Python Interface using YARP com
 by Dannier Castro.
 
 Instructions:
+
 1) Download the Razer Hydra SDK Linux distribution from Sixence Official Web Page: http://sixense.com/linuxsdkdownload
+
 2) Follow the instructions from "README.txt" file in SDK root directory to install the dependences so the program works on Linux OS.
+
 3) Install YARP following this instructions https://wiki.arcoslab.eie.ucr.ac.cr/doku.php/installing_yarp_in_debian
 
 4) Important Steps:
